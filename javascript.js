@@ -1,2 +1,3 @@
-vsr myName = 'Ekta Shah'
-console.log('Hello, my name is Ekta Shah')
+var myName = 'Ekta Shah'
+console.log('Hello, my name is' + )
+var number = 3
